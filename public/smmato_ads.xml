@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="2.0">
+   <Ad id="6c545e7812843df724160d3a56e1b6a5">
+      <Wrapper>
+         <AdSystem>RhythmXchange Adserver</AdSystem>
+         <VASTAdTagURI><![CDATA[https://a-iad.1rx.io/rtbdeliver/vast?excid=smaato&pickup=7f7fb2100a62c04b565dd5cc0d271855&zrk=6c545e7812843df724160d3a56e1b6a5&zds=f2c9644ce306de93a5041fedf9bab0f3&imp=368428a67cc76b4afad05c2f467e43ec&zwp=12.9768&pv=1&prc=ZX0.8857440828502499]]></VASTAdTagURI>
+         <Error><![CDATA[https://a-iad.1rx.io/rtbtrkd?excid=smaato&pickup=7f7fb2100a62c04b565dd5cc0d271855&zrk=6c545e7812843df724160d3a56e1b6a5&zds=f2c9644ce306de93a5041fedf9bab0f3&imp=368428a67cc76b4afad05c2f467e43ec&evt=error&errcode=[ERRORCODE]&zwp=12.9768]]></Error>
+         <Impression><![CDATA[https://a-iad.1rx.io/rtbtrkd?excid=smaato&pickup=7f7fb2100a62c04b565dd5cc0d271855&zrk=6c545e7812843df724160d3a56e1b6a5&zds=f2c9644ce306de93a5041fedf9bab0f3&imp=368428a67cc76b4afad05c2f467e43ec&zwp=12.9768&imptype=video&pg=unknown&vsm=vastwrapper&1]]></Impression>
+         <Impression><![CDATA[https://pixel.quantserve.com/pixel/p-59TntzuqummDw.gif?labels=RhythmMax.Video]]></Impression>
+         <Impression><![CDATA[https://trackedevt.1rx.io/trackedevent/e?doc_type=thirdpartybeacon&doc_version=11&ssp=2019&dsp=1254&pubid=1100046001&siteid=&appid=120249595&appbundle=com.thechive.atmospheretv&requestid=6c545e7812843df724160d3a56e1b6a5&userid=&useridorig=&domain=&ifa=&cc=US&dealid=&traffictype=Ctv_InApp_Video&gdpr=0&productlist=partner:Quantcast|product:Measure|method:pixel,partner:comScore|product:VideoMetrix|method:pixel&starttime=0&verificationtrafficgroup=video_nonvpaid&dt=1]]></Impression>
+         <Creatives>
+            <Creative>
+               <Linear>
+                  <TrackingEvents>
+                     <Tracking event="creativeView"><![CDATA[https://a-iad.1rx.io/rtbtrkd?excid=smaato&pickup=7f7fb2100a62c04b565dd5cc0d271855&zrk=6c545e7812843df724160d3a56e1b6a5&zds=f2c9644ce306de93a5041fedf9bab0f3&imp=368428a67cc76b4afad05c2f467e43ec&evt=creativeView&zwp=12.9768]]></Tracking>
+                     <Tracking event="start"><![CDATA[https://a-iad.1rx.io/rtbtrkd?excid=smaato&pickup=7f7fb2100a62c04b565dd5cc0d271855&zrk=6c545e7812843df724160d3a56e1b6a5&zds=f2c9644ce306de93a5041fedf9bab0f3&imp=368428a67cc76b4afad05c2f467e43ec&evt=start&zwp=12.9768]]></Tracking>
+                     <Tracking event="start"><![CDATA[https://sb.scorecardresearch.com/p?c1=2&c2=6000004&ns_ap_sv=2.1511.10&ns_type=hidden&ns_st_it=a&ns_st_sv=4.0.0&ns_st_ad=1&ns_st_sq=1&ns_st_id=6c545e7812843df724160d3a56e1b6a5&ns_st_ec=1&ns_st_cn=1&ns_st_ev=play&ns_st_ct=va11&ns_st_cl=0&ns_st_pt=0&c3=4&ns_ts=1620258700919]]></Tracking>
+                     <Tracking event="start"><![CDATA[https://sync.1rx.io/usersync2/rhythmone?impinit=1]]></Tracking>
+                     <Tracking event="firstQuartile"><![CDATA[https://a-iad.1rx.io/rtbtrkd?excid=smaato&pickup=7f7fb2100a62c04b565dd5cc0d271855&zrk=6c545e7812843df724160d3a56e1b6a5&zds=f2c9644ce306de93a5041fedf9bab0f3&imp=368428a67cc76b4afad05c2f467e43ec&evt=firstQuartile&zwp=12.9768]]></Tracking>
+                     <Tracking event="midpoint"><![CDATA[https://a-iad.1rx.io/rtbtrkd?excid=smaato&pickup=7f7fb2100a62c04b565dd5cc0d271855&zrk=6c545e7812843df724160d3a56e1b6a5&zds=f2c9644ce306de93a5041fedf9bab0f3&imp=368428a67cc76b4afad05c2f467e43ec&evt=midpoint&zwp=12.9768]]></Tracking>
+                     <Tracking event="thirdQuartile"><![CDATA[https://a-iad.1rx.io/rtbtrkd?excid=smaato&pickup=7f7fb2100a62c04b565dd5cc0d271855&zrk=6c545e7812843df724160d3a56e1b6a5&zds=f2c9644ce306de93a5041fedf9bab0f3&imp=368428a67cc76b4afad05c2f467e43ec&evt=thirdQuartile&zwp=12.9768]]></Tracking>
+                     <Tracking event="complete"><![CDATA[https://a-iad.1rx.io/rtbtrkd?excid=smaato&pickup=7f7fb2100a62c04b565dd5cc0d271855&zrk=6c545e7812843df724160d3a56e1b6a5&zds=f2c9644ce306de93a5041fedf9bab0f3&imp=368428a67cc76b4afad05c2f467e43ec&evt=complete&zwp=12.9768]]></Tracking>
+                     <Tracking event="complete"><![CDATA[https://sb.scorecardresearch.com/p?c1=2&c2=6000004&ns_ap_sv=2.1511.10&ns_type=hidden&ns_st_it=a&ns_st_sv=4.0.0&ns_st_ad=1&ns_st_sq=1&ns_st_id=6c545e7812843df724160d3a56e1b6a5&ns_st_ec=2&ns_st_cn=1&ns_st_ev=end&ns_st_ct=va11&ns_st_cl=0&ns_st_pt=0&c3=4&ns_ts=1620258700919]]></Tracking>
+                  </TrackingEvents>
+                  <VideoClicks>
+                     <ClickTracking><![CDATA[https://a-iad.1rx.io/rtbctrkd/f2c9644ce306de93a5041fedf9bab0f3-6c545e7812843df724160d3a56e1b6a5-7f7fb2100a62c04b565dd5cc0d271855-d5abadc0a81cd7c5f41be2e16973fbbf]]></ClickTracking>
+                  </VideoClicks>
+               </Linear>
+            </Creative>
+         </Creatives>
+      </Wrapper>
+   </Ad>
+</VAST>
